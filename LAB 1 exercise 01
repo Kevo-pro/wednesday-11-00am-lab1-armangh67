@@ -1,0 +1,10 @@
+'''
+Author: Kevin Alonzo 
+KUID: 3118024
+Date: 09/11/2024
+Lab: lab##
+Last modified: 09/11/2024
+Purpose: LAB 1 exercise 01
+'''
+
+print('This is my first lab exercise')
